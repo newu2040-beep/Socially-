@@ -1,0 +1,6 @@
+{
+  "name": "Socially",
+  "description": "Premium 3D-depth retro photography hub with Fuji vintage filters, AI enhancements, smart captioning, and dynamic cloud-synced albums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
